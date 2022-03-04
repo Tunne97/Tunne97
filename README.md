@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tunne97
+- 👋 Hi, I’m Tunnie
 - 👀 I’m interested in data science especially machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any project related to data analysis
